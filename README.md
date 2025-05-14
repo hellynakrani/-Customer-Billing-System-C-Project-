@@ -1,4 +1,5 @@
-📦 Customer Billing System (C Project)This is a Customer Billing System built using the C programming language. It allows users to:
+📦 Customer Billing System (C Project)
+This is a Customer Billing System built using the C programming language. It allows users to:
 
 Add new customers
 View existing records
